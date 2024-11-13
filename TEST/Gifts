@@ -1,0 +1,12 @@
+{
+  "gifts":{
+    "1":{
+      "giftname":"Gift1",
+      "isavalible":"true"
+    },
+    "2":{
+      "giftname":"Gift2",
+      "isavalible":"true"
+    }
+  }
+}
